@@ -24,8 +24,9 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="露卡未来是什么？"
+                paragraph='露卡未来是一个由几个年轻人发起的先进科技社群，其中露卡英文为Luca，是英文 "The Last Universal Common Ancestor"的缩写
+                中文译作“所有物种在分化之前最后的一个共同祖先”，当下的科技时代的巨变，任何科技或许都会成为未来的Luca。以下为我们社群的特点：'
                 mb="44px"
               />
 
@@ -35,15 +36,13 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="年轻化" />
+                    <List text="技术前沿性" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="涉猎广泛" />
+                    <List text="For fun, For future" />
                   </div>
                 </div>
               </div>
