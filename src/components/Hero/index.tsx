@@ -18,11 +18,11 @@ const Hero = () => {
                   Hello, Welcome to <b className="text-blue-300">Luca Future</b>
                 </h1>
                 <p className="mb-12 text-base leading-relaxed! text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  产品未发，门户先开。露卡未来，期待与您探索未来。
+                  产品未成，门户先开。露卡未来，期待与您探索未来。
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://nextjstemplates.com/templates/saas-starter-startup"
+                    href="/contact"
                     className="rounded-xs bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     🔥 联系我们
